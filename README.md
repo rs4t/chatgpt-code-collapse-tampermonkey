@@ -29,20 +29,6 @@ Edit these values at the top of the script:
 | `COLLAPSE_AFTER_LINES` | 20 | Collapse code blocks longer than this |
 | `PREVIEW_LINES` | 10 | Lines to show when collapsed |
 
-## Publishing on Greasy Fork
-
-When uploading to [Greasy Fork](https://greasyfork.org/), fill in:
-
-| Field | Value |
-|-------|-------|
-| Name | ChatGPT Smart Code Collapse |
-| Description | Collapses long code blocks (>20 lines) in ChatGPT with a smooth fade preview |
-| Category | Utilities |
-| Compatible with | chrome, firefox, edge, opera, safari |
-
-**Greasy Fork install URL:**  
-`https://greasyfork.org/scripts/[your-script-id]/chatgpt-smart-code-collapse.user.js`
-
 ---
 
 Made by [rs4t](https://github.com/rs4t)
