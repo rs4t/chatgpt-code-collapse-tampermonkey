@@ -17,8 +17,6 @@ A lightweight Tampermonkey script that automatically collapses long code blocks 
 2. Click install or create a new script and paste the code
 3. Visit [chatgpt.com](https://chatgpt.com/)
 
-**Direct install:**  
-https://github.com/rs4t/chatgpt-smart-code-collapse/raw/main/smart-collapse.js
 
 ## Configuration
 
